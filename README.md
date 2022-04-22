@@ -15,10 +15,10 @@ Open this link using Expo Go application (iOS or Android) to view the applicatio
 1. Ensure you have installed the latest version of Node.js [(Node.js LTS release)](https://nodejs.org/en/)  
   `Only Node.js LTS releases (even-numbered) are recommended. As Node.js officially states, "Production applications should only use Active LTS or Maintenance LTS releases.`
 2. Recommended Tools
-   - [VSCode Editor](https://code.visualstudio.com/download)
+    - [VSCode Editor](https://code.visualstudio.com/download)
 3. Expo Go App for iOS & Android
-     - 🤖 [Android Play Store](https://play.google.com/store/apps/details?id=host.exp.exponent) - Android Lollipop (5) and greater.
-   - 🍎 [iOS App Store](https://apps.apple.com/app/expo-go/id982107779) - iOS 11 and greater.
+    - 🤖 [Android Play Store](https://play.google.com/store/apps/details?id=host.exp.exponent) - Android Lollipop (5) and greater.
+    - 🍎 [iOS App Store](https://apps.apple.com/app/expo-go/id982107779) - iOS 11 and greater.
 
 ## Steps to run the application
 1. Clone/Download this repository
@@ -37,6 +37,7 @@ Open this link using Expo Go application (iOS or Android) to view the applicatio
 
 ## References
 - [Expo](https://docs.expo.dev/)
+- [React Native](https://reactnative.dev/docs/getting-started)
 - [Splash Screen](https://docs.expo.dev/versions/latest/sdk/splash-screen/)
 - [Expo Sensor Accelerometer](https://docs.expo.dev/versions/v44.0.0/sdk/accelerometer/)
 - [Calculate tilt & pitch from accelerometer data](https://wiki.dfrobot.com/How_to_Use_a_Three-Axis_Accelerometer_for_Tilt_Sensing)
