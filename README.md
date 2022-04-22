@@ -24,11 +24,13 @@ Open this link using Expo Go application (iOS or Android) to view the applicatio
 1. Clone/Download this repository
 2. Open the project using VSCode
 3. Navigate to the root folder of the project, i.e. the folder containing the package.json file. This folder would have name motion-based-undo-redo-app
-4. When inside this folder, open command prompt or terminal. You can also use integrated terminal if you are using VSCode (VSCode shortcut: ``Ctrl + ` `` for windows users.).
+4. When inside this folder, open command prompt or terminal. You can also use integrated terminal if you are using VSCode (VSCode shortcut: ``Ctrl + ` `` for windows users.)
 5. Type the below commands in terminal
 6. Run `npm install` to install all the dependencies
 7. Run `npm start` to run the application in development mode
-8. Once the bundle is ready, you can follow the link (e.g. http://localhost:19002/) displayed in the terminal or click `d` to open the Expo developer tools in browser.
+8. Once the bundle is ready, you can follow the link (e.g. http://localhost:19002/) displayed in the terminal or click `d` to open the Expo developer tools in browser
+9. On the developers tool page, change the connection type to tunnel
+10. Open Expo Go app on your mobile device & scan the QR code displayed on the devloper tools page to run the application
 
 ## Instructions
 - Tilt phone left to undo text
